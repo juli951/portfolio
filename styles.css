@@ -9,6 +9,18 @@ header{
     text-align: center;
     padding:0%;
 }
+profile{
+    width: 250;
+    padding: 250;
+    background-color:#00008b
+}
+.profile img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
 main{
     max-width: 800px;
     margin:0 auto;
@@ -32,5 +44,5 @@ project{
 footer{
     background-color: #ffd700;
     color:#000000;
-    padding:0.5rem 0;
+    padding:0.5rem 
 }
