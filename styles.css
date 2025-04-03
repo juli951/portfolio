@@ -1,0 +1,36 @@
+body{
+    font-family: Arial,sans-serif;
+    margin:auto;
+    padding:0%;
+}
+header{
+    background-color: rgb(169, 169, 169);
+    color:#000000;
+    text-align: center;
+    padding:0%;
+}
+main{
+    max-width: 800px;
+    margin:0 auto;
+    padding:1rem;
+}
+section{
+    margin-bottom:2rem;
+}
+h2{
+    font-size:1.5rem;
+    color:#4b0082
+}
+h3{
+    font-size:1.5rem;
+    color: #00008b;
+}
+project{
+    border: 1px solid #00008b;
+    padding:1rem;
+}
+footer{
+    background-color: #ffd700;
+    color:#000000;
+    padding:0.5rem 0;
+}
